@@ -1,7 +1,7 @@
 {
-  "name": "landing-page-template",
+  "name": "sugargoo-spreadsheet-budget",
   "version": "1.0.0",
-  "description": "广告落地页模板 - 用于快速创建 GitHub Pages 子域名站点",
+  "description": "Sugargoo Spreadsheet budget data and navigation directory",
   "type": "module",
   "scripts": {
     "dev": "vitepress dev",
