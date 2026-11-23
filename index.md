@@ -4,7 +4,7 @@ title: Kakobuy Spreadsheet Budget Finder – Browse Budget Data by Category
 
 <div class="kakobuy-page">
 <section class="reference-hero">
-<p class="hero-count">SUGARGOO SPREADSHEET · BUDGET FINDER</p>
+<p class="hero-count">KAKOBUY SPREADSHEET · BUDGET FINDER</p>
 <h1>Find budget<br><span>data faster</span></h1>
 <p class="hero-subtitle">A structured directory for Kakobuy Spreadsheet links</p>
 <p class="hero-copy">Use category, brand, and budget shortcuts to open the relevant external data view. This site is a navigation tool, not a store.</p>
@@ -14,7 +14,7 @@ title: Kakobuy Spreadsheet Budget Finder – Browse Budget Data by Category
 <span class="status-chip">Check current data at destination</span>
 </div>
 <div class="hero-actions">
-<a class="hero-action primary-action" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy">Open All Finds ↗</a>
+<a class="hero-action primary-action" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy">Open All Finds ↗</a>
 <a class="hero-action secondary-action" href="#how-to-order">⚡ How to Order · 30s</a>
 </div>
 </section>
@@ -31,11 +31,11 @@ title: Kakobuy Spreadsheet Budget Finder – Browse Budget Data by Category
 <p class="field-note">Search is a visual prompt. Open a directory below to check live external records.</p>
 <div class="filter-row" aria-label="Budget shortcuts">
 <span class="filter-caption">Budget</span>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&price=all">All Prices</a>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&price=under-10">Under $10</a>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&price=10-20">$10–$20</a>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&price=20-40">$20–$40</a>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&price=40-plus">$40+</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&price=all">All Prices</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&price=under-10">Under $10</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&price=10-20">$10–$20</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&price=20-40">$20–$40</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&price=40-plus">$40+</a>
 </div>
 </section>
 
@@ -44,14 +44,14 @@ title: Kakobuy Spreadsheet Budget Finder – Browse Budget Data by Category
 <h2>Browse budget data by category</h2>
 <p class="section-intro">Choose a category to open the matching external view. Prices, availability, and product records can change.</p>
 <div class="category-list">
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=Kakobuy"><span>01</span><strong>👕 Hoodies &amp; Tees</strong><small>Open clothing data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=Kakobuy"><span>02</span><strong>👟 Sneakers &amp; Shoes</strong><small>Open footwear data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=long-sleeve&platform=Kakobuy"><span>03</span><strong>🧥 Jackets &amp; Outerwear</strong><small>Open outerwear data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=Kakobuy"><span>04</span><strong>👖 Pants &amp; Shorts</strong><small>Open bottoms data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=bags&platform=Kakobuy"><span>05</span><strong>🎒 Bags &amp; Backpacks</strong><small>Open bag data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=Kakobuy"><span>06</span><strong>🧢 Caps &amp; Accessories</strong><small>Open accessories data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=watches&platform=Kakobuy"><span>07</span><strong>⌚ Watches</strong><small>Open watch data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=lego&platform=Kakobuy"><span>08</span><strong>📦 Mystery Boxes &amp; More</strong><small>Open additional data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=kakobuy"><span>01</span><strong>👕 Hoodies &amp; Tees</strong><small>Open clothing data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=kakobuy"><span>02</span><strong>👟 Sneakers &amp; Shoes</strong><small>Open footwear data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=long-sleeve&platform=kakobuy"><span>03</span><strong>🧥 Jackets &amp; Outerwear</strong><small>Open outerwear data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=kakobuy"><span>04</span><strong>👖 Pants &amp; Shorts</strong><small>Open bottoms data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=bags&platform=kakobuy"><span>05</span><strong>🎒 Bags &amp; Backpacks</strong><small>Open bag data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=kakobuy"><span>06</span><strong>🧢 Caps &amp; Accessories</strong><small>Open accessories data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=watches&platform=kakobuy"><span>07</span><strong>⌚ Watches</strong><small>Open watch data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=lego&platform=kakobuy"><span>08</span><strong>📦 Mystery Boxes &amp; More</strong><small>Open additional data</small><b>↗</b></a>
 </div>
 </section>
 
@@ -60,18 +60,18 @@ title: Kakobuy Spreadsheet Budget Finder – Browse Budget Data by Category
 <h2>Open a brand-filtered view</h2>
 <p class="section-intro">These buttons open external data views. Brand names are navigation labels only and do not imply authorization, authenticity, or endorsement.</p>
 <div class="brand-list">
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&brand=Nike">Nike</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&brand=adidas">adidas</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&brand=Jordan">Jordan</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&brand=AMIRI">AMIRI</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&brand=Burberry">Burberry</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&brand=Gucci">Gucci</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&brand=Prada">Prada</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&brand=Moncler">Moncler</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&brand=Stone+Island">Stone Island</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&brand=Off-White">Off-White</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&brand=Louis+Vuitton">Louis Vuitton</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy&brand=Chrome+Hearts">Chrome Hearts</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&brand=Nike">Nike</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&brand=adidas">adidas</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&brand=Jordan">Jordan</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&brand=AMIRI">AMIRI</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&brand=Burberry">Burberry</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&brand=Gucci">Gucci</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&brand=Prada">Prada</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&brand=Moncler">Moncler</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&brand=Stone+Island">Stone Island</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&brand=Off-White">Off-White</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&brand=Louis+Vuitton">Louis Vuitton</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&brand=Chrome+Hearts">Chrome Hearts</a>
 </div>
 </section>
 
@@ -83,7 +83,7 @@ title: Kakobuy Spreadsheet Budget Finder – Browse Budget Data by Category
 <div class="step-item"><span>02</span><div><h3>Review the current record</h3><p>Check the destination page for the current link, size information, price, availability, and any available QC material.</p></div></div>
 <div class="step-item"><span>03</span><div><h3>Confirm before checkout</h3><p>Sign in and complete purchasing only on the linked third-party destination. Confirm shipping, fees, and policies there.</p></div></div>
 </div>
-<a class="wide-cta" href="https://productsite-8wf.pages.dev/?view=styles&platform=Kakobuy">Open Kakobuy Data View ↗</a>
+<a class="wide-cta" href="https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy">Open Kakobuy Data View ↗</a>
 </section>
 
 <section class="empty-state content-section">
