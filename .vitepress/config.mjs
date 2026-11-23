@@ -4,6 +4,13 @@ const hostname = 'https://kakobuyspreadsheet-budget.com'
 const siteTitle = 'Kakobuy Spreadsheet Budget Finder'
 const siteDescription = 'Browse Kakobuy Spreadsheet budget data by category, price range, and brand through an independent navigation directory.'
 
+function pageUrl(relativePath) {
+  const cleanPath = relativePath === 'index.md'
+    ? '/'
+    : `/${relativePath.replace(/\.md$/, '').replace(/\/index$/, '')}`
+  return `${hostname}${cleanPath}`
+}
+
 export default defineConfig({
   title: siteTitle,
   description: siteDescription,
@@ -20,14 +27,6 @@ export default defineConfig({
     `],
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
     ['link', { rel: 'apple-touch-icon', href: '/favicon.png' }],
-    ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: siteTitle }],
-    ['meta', { property: 'og:description', content: siteDescription }],
-    ['meta', { property: 'og:url', content: hostname }],
-    ['meta', { property: 'og:image', content: `${hostname}/favicon.png` }],
-    ['meta', { name: 'twitter:card', content: 'summary' }],
-    ['meta', { name: 'twitter:title', content: siteTitle }],
-    ['meta', { name: 'twitter:description', content: siteDescription }],
     ['script', {}, `
       (function() {
         function sendTracking(eventName) {
@@ -54,6 +53,23 @@ export default defineConfig({
     `],
   ],
 
+  transformHead({ pageData }) {
+    const url = pageUrl(pageData.relativePath)
+    const title = pageData.frontmatter.title || siteTitle
+    const description = pageData.frontmatter.description || siteDescription
+    return [
+      ['link', { rel: 'canonical', href: url }],
+      ['meta', { property: 'og:type', content: 'website' }],
+      ['meta', { property: 'og:title', content: title }],
+      ['meta', { property: 'og:description', content: description }],
+      ['meta', { property: 'og:url', content: url }],
+      ['meta', { property: 'og:image', content: `${hostname}/favicon.png` }],
+      ['meta', { name: 'twitter:card', content: 'summary' }],
+      ['meta', { name: 'twitter:title', content: title }],
+      ['meta', { name: 'twitter:description', content: description }],
+    ]
+  },
+
   themeConfig: {
     logo: '/favicon.png',
     siteTitle,
@@ -63,6 +79,7 @@ export default defineConfig({
       { text: 'Shoes', link: 'https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=kakobuy' },
       { text: 'Pants', link: 'https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=kakobuy' },
       { text: 'Accessories', link: 'https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=kakobuy' },
+      { text: 'Budget Guides', link: '/under-10-finds' },
       { text: 'Brands', link: '/#featured-brands' },
       { text: 'All Finds', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy' },
     ],

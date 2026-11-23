@@ -70,6 +70,17 @@
 .kakobuy-note img { width: 32px; height: 32px; flex: none; object-fit: contain; }
 .kakobuy-note p { margin: 0; }
 
+.topic-page { padding-top: 26px; }
+.topic-hero { border-bottom: 1px solid var(--line); padding: 22px 0 46px; text-align: left; }
+.topic-hero h1 { max-width: 760px; margin: 12px 0 16px; color: var(--ink); font-size: clamp(2.8rem, 7vw, 5.3rem); font-weight: 850; letter-spacing: -0.07em; line-height: .98; }
+.topic-lead { max-width: 650px; margin: 0 0 24px; color: var(--muted); font-size: 1.08rem; line-height: 1.7; }
+.topic-hero .hero-actions { justify-content: flex-start; margin-top: 0; }
+.decision-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin-top: 24px; }
+.decision-grid > div { border: 1px solid var(--line); border-radius: 10px; padding: 18px; background: #fff; }
+.decision-grid h3 { margin: 0 0 8px; color: var(--ink); font-size: 1rem; }
+.decision-grid p { margin: 0; color: var(--muted); font-size: .88rem; line-height: 1.65; }
+.topic-links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
+
 @media (max-width: 900px) { .VPNavBar .VPNavBarMenuLink:nth-child(n + 4) { display: none; } }
 @media (max-width: 640px) {
   .kakobuy-page { padding: 30px 18px 36px; }
@@ -82,4 +93,8 @@
   .category-button { align-items: flex-start; flex-wrap: wrap; gap: 7px 10px; }
   .category-button small { flex-basis: calc(100% - 42px); margin-left: 38px; margin-top: -3px; }
   .kakobuy-note { align-items: flex-start; }
+  .topic-hero { padding-top: 10px; }
+  .topic-hero h1 { font-size: clamp(2.8rem, 14vw, 4.6rem); }
+  .topic-hero .hero-action { width: 100%; box-sizing: border-box; }
+  .decision-grid { grid-template-columns: 1fr; }
 }
