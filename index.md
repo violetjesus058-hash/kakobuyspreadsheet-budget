@@ -6,7 +6,7 @@ description: Explore Kakobuy Spreadsheet 2026 links for budget sneakers, hoodies
 <div class="kakobuy-page">
 <section class="reference-hero">
 <p class="hero-count">KAKOBUY SPREADSHEET · 2026 BUDGET DIRECTORY</p>
-<h1>Kakobuy Spreadsheet 2026: Budget Finds, QC Links &amp; Shopping Guides</h1>
+<h1><span>Kakobuy Spreadsheet 2026:</span><span>Budget Finds, QC Links</span><span>&amp; Shopping Guides</span></h1>
 <p class="hero-subtitle">Find Kakobuy spreadsheet links for budget sneakers, hoodies, tees, seasonal picks, and price-based routes.</p>
 <p class="hero-copy">Use this independent directory to reach current Kakobuy spreadsheet data by budget, category, brand, and shopping question. It is built for people looking for Kakobuy budget finds, QC photo references, fit notes, and order checks without duplicating the external product catalog.</p>
 <div class="status-row" aria-label="Directory status"><span class="status-chip"><i aria-hidden="true"></i> Independent directory</span><span class="status-chip">↗ External data views</span><span class="status-chip">Verify current details</span></div>

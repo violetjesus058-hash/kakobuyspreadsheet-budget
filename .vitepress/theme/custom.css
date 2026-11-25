@@ -20,8 +20,9 @@
 .kakobuy-page { max-width: 900px; margin: 0 auto; padding: 42px 24px 48px; color: var(--ink); text-align: center; }
 .reference-hero { padding: 18px 0 32px; }
 .hero-count, .hero-subtitle { margin: 0; color: var(--ink); font-size: 0.9rem; font-weight: 800; letter-spacing: 0.12em; }
-.reference-hero h1 { margin: 20px 0 18px; color: var(--ink); font-size: clamp(3.2rem, 7vw, 5.8rem); font-weight: 850; letter-spacing: -0.07em; line-height: 0.94; }
-.reference-hero h1 span { color: var(--kakobuy-blue); }
+.reference-hero h1 { max-width: 860px; margin: 20px auto 18px; color: var(--ink); font-size: clamp(1.4rem, 5.4vw, 3.9rem); font-weight: 850; letter-spacing: -0.07em; line-height: 1.05; text-align: center; }
+.reference-hero h1 span { display: block; color: inherit; white-space: nowrap; }
+.reference-hero h1 span:last-child { color: var(--kakobuy-blue); }
 .hero-subtitle { color: var(--kakobuy-blue); font-size: 1.02rem; }
 .hero-copy { max-width: 640px; margin: 24px auto 0; color: var(--muted); font-size: 0.98rem; line-height: 1.7; }
 .status-row { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 22px 0 0; }
@@ -85,7 +86,7 @@
 @media (max-width: 640px) {
   .kakobuy-page { padding: 30px 18px 36px; }
   .reference-hero { padding-top: 10px; }
-  .reference-hero h1 { font-size: clamp(3rem, 15vw, 5rem); }
+  .reference-hero h1 { max-width: 100%; font-size: clamp(1.4rem, 8.4vw, 2.8rem); }
   .hero-copy { font-size: .92rem; }
   .hero-action { width: 100%; box-sizing: border-box; }
   .finder-panel { padding: 18px; }
