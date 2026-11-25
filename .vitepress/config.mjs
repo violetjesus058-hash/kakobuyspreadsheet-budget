@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 const hostname = 'https://kakobuyspreadsheet-budget.com'
-const siteTitle = 'Kakobuy Spreadsheet Budget Finder'
-const siteDescription = 'Browse Kakobuy Spreadsheet budget data by category, price range, and brand through an independent navigation directory.'
+const siteTitle = 'Kakobuy Spreadsheet 2026 | Budget Finds, QC Links & Shopping Guides'
+const siteDescription = 'Explore Kakobuy Spreadsheet 2026 links for budget sneakers, hoodies, tees, under-$10 finds, QC photo references, fit checks, and order guides.'
 
 function pageUrl(relativePath) {
   const cleanPath = relativePath === 'index.md'
@@ -75,11 +75,11 @@ export default defineConfig({
     siteTitle,
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Clothing', link: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=kakobuy' },
-      { text: 'Shoes', link: 'https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=kakobuy' },
-      { text: 'Pants', link: 'https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=kakobuy' },
-      { text: 'Accessories', link: 'https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=kakobuy' },
-      { text: 'Budget Guides', link: '/under-10-finds' },
+      { text: 'Under $10', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy&price=under-10' },
+      { text: 'Budget Sneakers', link: '/budget-sneakers/' },
+      { text: 'Budget Clothing', link: '/budget-clothing/' },
+      { text: 'Kakobuy Links', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy' },
+      { text: 'Budget Guides', link: '/under-10-finds/' },
       { text: 'Brands', link: '/#featured-brands' },
       { text: 'All Finds', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy' },
     ],
