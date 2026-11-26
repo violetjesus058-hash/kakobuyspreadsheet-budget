@@ -82,6 +82,7 @@ export default defineConfig({
       { text: 'Budget Guides', link: '/under-10-finds/' },
       { text: 'Brands', link: '/#featured-brands' },
       { text: 'All Finds', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=kakobuy' },
+      { text: 'Privacy Policy', link: '/privacy-policy/' },
     ],
     sidebar: false,
     outline: false,
