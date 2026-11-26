@@ -13,6 +13,10 @@ This Privacy Policy explains how **Kakobuy Spreadsheet Budget** ("we," "us," or 
 
 Kakobuy Spreadsheet Budget does not sell physical products or operate the external catalog. We do not process third-party orders or payments, operate warehouses, arrange shipping, issue refunds, or provide after-sales service. External destinations handle those matters. Brand names, product images, and platform references belong to their respective rights holders and do not imply official authorization, authenticity, quality assurance, or endorsement.
 
+### Kakobuy directory signals
+
+Kakobuy routes are organized around price bands, category filters, brand shortcuts, QC-photo references, and fit or order notes. A selected route may be sent as an event label or campaign value to the configured measurement system. This does not grant us access to the external listing, seller account, QC archive, or checkout record.
+
 ## 2. Information collected
 
 You may browse without an account. If you contact us or submit a request form that we make available, we may collect your name, email address, message, and other information you voluntarily provide.
